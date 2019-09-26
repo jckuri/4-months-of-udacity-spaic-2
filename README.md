@@ -10,3 +10,9 @@ My pledge "4 months of udacity" for the Phase 2 of Secure and Private AI Challen
 - I participated in the first AMA session of SPAIC 2: https://secureprivateaind.slack.com/archives/CN87GMM08/p1569342103154800
 
 ![Day 1](images/Day001.png)
+
+**Day 2: September 25, 2019**
+- I watched many video lectures.
+- Now I'm in **Part 1: Introduction to Computer Vision** (Progress 26%); **Lesson 4: Image Representation & Classification; 19. Day and Night Classification**
+
+![Day 2](images/Day002.png)
