@@ -1,5 +1,5 @@
 # 4-months-of-udacity-spaic-2
-My pledge "4 months of udacity" for the Phase 2 of Secure and Private AI Challenge.
+## My pledge "4 months of udacity" for the Phase 2 of Secure and Private AI Challenge.
 
 **Day 1: September 24, 2019**
 - I entered the Computer Vision nanodegree.
