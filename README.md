@@ -1,4 +1,4 @@
-# 4-months-of-udacity
+# 4-months-of-udacity-spaic-2
 My pledge "4 months of udacity" for the Phase 2 of Secure and Private AI Challenge.
 
 **Day 1: September 24, 2019**
