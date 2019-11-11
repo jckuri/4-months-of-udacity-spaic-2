@@ -407,3 +407,10 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 47](images/Day047.png)
+
+## Day 48: November 10, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- Today, I read the following link **Test Run - Computing with Artificial Spiking Neurons** <https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/september/test-run-computing-with-artificial-spiking-neurons>. Because our Study Group on Neuroscience, the Slack channel #sg_neuroscience, will program the Izhikevich's model of spiking neurons in order to implement whatever artificial intelligence technique by using spiking neurons, i.e. pattern recognition, detection of correlations and causations, reinforcement learning.
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
+
+![Day 48](images/Day048.png)
