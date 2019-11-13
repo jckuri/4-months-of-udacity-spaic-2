@@ -421,3 +421,13 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 49](images/Day049.png)
+
+## Day 50: November 12, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I watched the YouTube **"Geometric Deep Learning | Michael Bronstein || Radcliffe Institute"**, in the following link: https://www.youtube.com/watch?v=ptcBmEHDWds
+- I watched the YouTube **"Simple Model of Spiking Neurons(Izhikevich's Model) in Arduino - Pietro Rignanese & Andrea Polenta"**, in the following link: https://www.youtube.com/watch?v=hH13wbqk_TM
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
+
+![Day 50](images/Day050-1.png)
+![Day 50](images/Day050-2.png)
