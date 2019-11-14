@@ -431,3 +431,11 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 
 ![Day 50](images/Day050-1.png)
 ![Day 50](images/Day050-2.png)
+
+## Day 51: November 13, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I read the paper **Izhikevich Neuron Model and its Application in Pattern Recognition (By Roberto Antonio Vázquez)**. Link: <https://www.researchgate.net/publication/285718078_Izhikevich_Neuron_Model_and_its_Application_in_Pattern_Recognition>. It looks very promising because we want to implement some AI project based on the Izhikevich's model of spiking neurons for our final project in the Slack channel #sg_neuroscience. See the photo.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 51](images/Day051.png)
