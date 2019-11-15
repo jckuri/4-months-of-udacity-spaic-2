@@ -432,3 +432,11 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 51](images/Day051.png)
+
+## Day 52: November 14, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I applied to the Intel Edge AI Scholarship: <https://www.udacity.com/intel-edge-ai-scholarship>. Mission complete! See the photo.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 52](images/Day052.png)
