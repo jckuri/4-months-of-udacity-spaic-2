@@ -448,3 +448,11 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 53](images/Day053.jpg)
+
+## Day 54: November 16, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I watched the YouTube video lecture called **Xavier Bresson: "Convolutional Neural Networks on Graphs"**. I cannot wait to program this. Here is the video: https://www.youtube.com/watch?v=v3jZRkvIOIM
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 54](images/Day054.jpg)
