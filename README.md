@@ -473,3 +473,15 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 56](images/Day056.png)
+
+## Day 57: November 19, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- My current progress is:\
+  **Extracurricular Part 4. Text Sentiment Analysis** (Progress 61%)\
+  **Lesson 1 - Sentiment Analysis** (Progress 61%)\
+  **14. Understanding Neural Noise**
+- I programmed the backpropagation algorithm of the mini-project 2 of Sentiment Analysis.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 57](images/Day057.png)
