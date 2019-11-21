@@ -485,3 +485,14 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 57](images/Day057.png)
+
+## Day 58: November 20, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- My current progress is:\
+  **Extracurricular Part 4. Text Sentiment Analysis** (Progress 74%)\
+  **Lesson 1 - Sentiment Analysis** (Progress 74%)\
+  **17. Mini Project 5**
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 58](images/Day058.png)
