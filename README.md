@@ -568,7 +568,7 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - My current lecture is:\
   **Extracurricular Part 5. More Deep Learning Models**\
   **Lesson 1 - Fully-Convolutional Neural Networks & Semantic Segmentation**\
-  **7. FCNs In he Wild.**
+  **7. FCNs In The Wild.** 
 - I answered some questions in the Slack channel #cvnd_techhelp.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
