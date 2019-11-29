@@ -563,7 +563,7 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 
 ![Day 64](images/Day064.jpg)
 
-## Day 65: November 26, 2019. #30DaysofUdacity #PracticeMakesPerfect
+## Day 65: November 27, 2019. #30DaysofUdacity #PracticeMakesPerfect
 - I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
 - My current lecture is:\
   **Extracurricular Part 5. More Deep Learning Models**\
@@ -574,7 +574,7 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 
 ![Day 65](images/Day065.jpg)
 
-## Day 66: November 26, 2019. #30DaysofUdacity #PracticeMakesPerfect
+## Day 66: November 28, 2019. #30DaysofUdacity #PracticeMakesPerfect
 - I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
 - My current lecture is:\
   **Extracurricular Part 5. More Deep Learning Models**\
