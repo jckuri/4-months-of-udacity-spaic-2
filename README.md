@@ -583,4 +583,4 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I answered some questions in the Slack channel #cvnd_techhelp.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
-![Day 66](images/Day066.jpg)
+![Day 66](images/Day066.png)
