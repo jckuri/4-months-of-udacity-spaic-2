@@ -684,7 +684,7 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 
 ![Day 75](images/Day075.png)
 
-## Day 76: December 8, 2019. #30DaysofUdacity #PracticeMakesPerfect
+## Day 76: December 8, 2019. #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
 - I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
 - My current lecture is:\
   **Extracurricular Part 6. C++ Programming**\
