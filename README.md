@@ -740,3 +740,15 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 80](images/Day080.jpeg)
+
+## Day 81: December 13, 2019. #30DaysofUdacity #PracticeMakesPerfect #FinalDaysof2019
+- Intel and Udacity gave me a scholarship to learn state-of-the-art algorithms of artificial intelligence, computer vision, and the Internet of Things (IoT) #UdacityIntelTechScholars
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- My current lecture is:\
+  **Extracurricular Part 6. C++ Programming**\
+  **Lesson 1 - C++ Getting Started**\
+  **9. Floating versus Double \[demonstration\]** 
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 81](images/Day081.jpeg)
