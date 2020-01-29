@@ -1260,3 +1260,14 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 126](images/Day126.jpg)
+
+## Day 127: January 28, 2020. #30DaysofUdacity
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- My current lecture is:\
+  **Extracurricular Part 6. C++ Programming**\
+  **Lesson 4: C++ Object Oriented Programming**\
+  **13. Class Variables** 
+- I continue reviewing many projects of the Computer Vision nanodegree.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 127](images/Day127.jpg)
