@@ -1480,3 +1480,25 @@ But I will continue logging my daily activities for the Phase 2 of the Secure & 
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
 
 ![Day 146](images/Day146.jpg)
+
+## Day 147: February 17, 2020. #30DaysofUdacity
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- My current lecture is:\
+  **Extracurricular Part 6. C++ Programming**\
+  **Lesson 6: C++ Intro to Optimization**\
+  **8. Demo: Binary** 
+- I continue reviewing many projects of the Computer Vision nanodegree.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 147](images/Day147.jpg)
+
+## Day 148: February 18, 2020. #30DaysofUdacity
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- My current lecture is:\
+  **Extracurricular Part 6. C++ Programming**\
+  **Lesson 6: C++ Intro to Optimization**\
+  **9. Demo: Binary Floats** 
+- I continue reviewing many projects of the Computer Vision nanodegree.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR, @Laszlo TothL. 
+
+![Day 148](images/Day148.jpg)
